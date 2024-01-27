@@ -16,6 +16,7 @@ Este es un programa en Python diseñado para recibir y procesar datos del contad
 
 2. Instala las dependencias:
 
+    ```bash
     pip install pyserial
 
 ## Uso
@@ -24,6 +25,7 @@ Este es un programa en Python diseñado para recibir y procesar datos del contad
 
 2. Ejecuta el programa:
    
+   ```bash
    python hpc168_data_receiver.py
 
 3. Observa la salida en la consola y el archivo de registro (log_mes_anio.txt).
@@ -32,6 +34,7 @@ Este es un programa en Python diseñado para recibir y procesar datos del contad
 
 1. Asegúrate de que el programa esté configurado con el puerto serial correcto y la velocidad de baudios.
    
+   ```bash
    ser = serial.Serial('/dev/ttyUSB0', 115200, timeout=1)
 
 ## Contribuciones
