@@ -46,4 +46,4 @@ Este es un programa en Python diseñado para recibir y procesar datos del contad
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
 
-## Este README proporciona información básica sobre cómo instalar y usar tu programa, así como detalles sobre configuración y contribuciones. Asegúrate de personalizarlo según las necesidades específicas de tu proyecto.
+Este README proporciona información básica sobre cómo instalar y usar tu programa, así como detalles sobre configuración y contribuciones. Asegúrate de personalizarlo según las necesidades específicas de tu proyecto.
